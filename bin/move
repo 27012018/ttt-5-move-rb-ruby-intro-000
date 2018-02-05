@@ -5,3 +5,4 @@ require_relative '../lib/move.rb'
 # Code your CLI Here
 def input_to_index
   converted_input = input_to_index(user_input.to_i - 1)
+end
